@@ -11,4 +11,4 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v1
         with:
-          working-directory: my-app/cypress
+          working-directory: my-app
